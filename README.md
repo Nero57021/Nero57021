@@ -43,7 +43,7 @@
 [twitter]: https://twitter.com/Jeremy57021
 [youtube]: https://www.youtube.com/channel/UC0hYh1bf1Uv3LyekWKvzmDQ/videos?view_as=subscriber
 [instagram]: https://www.instagram.com/nero_decimo/
-[webdevplaylist]: 
+<!-- [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
-[reactplaylist]: 
+[reactplaylist]:  -->
