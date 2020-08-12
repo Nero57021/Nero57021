@@ -27,10 +27,10 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nero57021&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/jeremy57021/
-[website]: 
-[twitter]: 
-[youtube]: 
-[instagram]: 
+[website]: ToBeFilledLater
+[twitter]: https://twitter.com/Jeremy57021
+[youtube]: https://www.youtube.com/channel/UC0hYh1bf1Uv3LyekWKvzmDQ/videos?view_as=subscriber
+[instagram]: https://www.instagram.com/nero_decimo/
 [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
