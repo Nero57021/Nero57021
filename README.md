@@ -23,7 +23,15 @@
 <br />
 <br />
 
-<!-- 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nero57021&show_icons=true&hide_border=true" /> -->
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nero57021&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/jeremy57021/
+[website]: 
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[webdevplaylist]: 
+[jsplaylist]: 
+[cssplaylist]: 
+[reactplaylist]: 
