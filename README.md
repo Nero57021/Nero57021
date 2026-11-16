@@ -1,10 +1,10 @@
 ### Hi there, I'm Jeremy👋
 
 ## I'm a Student, Developer and Mentor.
-- 🔭 I’m currently studying computer science.
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Senior Software Engineer fullstack - Fintech.
+- 🌱 Open to continuous learning and upskilling
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: In my spare time, I work with mod teams at Nexus to create community mods.
 
 ### Connect with me:
